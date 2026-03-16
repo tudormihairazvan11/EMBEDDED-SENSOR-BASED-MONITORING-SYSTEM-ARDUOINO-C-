@@ -8,4 +8,3 @@ SKILLS:
 -GPIO(INPUT/OUTPUT)
 -State machine logic
 -Modular firmware design
-
